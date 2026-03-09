@@ -11,7 +11,7 @@ const Hero = () => {
         <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] rounded-full bg-accent/5 blur-3xl" />
         {/* Grid pattern */}
         <div className="absolute inset-0 opacity-[0.03]" style={{
-          backgroundImage: "linear-gradient(hsl(205 100% 70%) 1px, transparent 1px), linear-gradient(90deg, hsl(205 100% 70%) 1px, transparent 1px)",
+          backgroundImage: "linear-gradient(hsl(75 63% 81%) 1px, transparent 1px), linear-gradient(90deg, hsl(75 63% 81%) 1px, transparent 1px)",
           backgroundSize: "60px 60px"
         }} />
       </div>
