@@ -18,7 +18,7 @@ const Hero = () => {
 
       <div className="container relative z-10 py-20">
         <div className="max-w-3xl mx-auto text-center">
-          <div className="inline-flex items-center gap-2 rounded-full border border-accent/20 bg-accent/10 px-4 py-1.5 text-sm text-accent mb-8 animate-fade-up">
+          <div className="inline-flex items-center gap-2 rounded-full border border-accent/20 bg-accent/10 px-4 py-1.5 text-sm mb-8 animate-fade-up text-primary-foreground">
             <span className="w-2 h-2 rounded-full bg-accent animate-pulse" />
             Tecnologia para eficiência empresarial
           </div>
@@ -29,7 +29,8 @@ const Hero = () => {
           </h1>
 
           <p className="text-lg md:text-xl text-primary-foreground/70 mb-10 max-w-2xl mx-auto animate-fade-up" style={{ animationDelay: "0.2s" }}>
-            A Just Tech ajuda empresas a organizar processos, reduzir tarefas manuais e melhorar resultados através de automação, inteligência artificial e integração de sistemas.
+            Nós analisamos como seu negócio funciona e implementamos soluções tecnológicas para melhorar a produtividade e organização.
+                                
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fade-up" style={{ animationDelay: "0.3s" }}>
@@ -51,8 +52,7 @@ const Hero = () => {
 
       {/* Bottom fade */}
       <div className="absolute bottom-0 left-0 right-0 h-32 bg-gradient-to-t from-background to-transparent" />
-    </section>
-  );
+    </section>);
 };
 
 export default Hero;
