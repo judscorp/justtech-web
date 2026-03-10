@@ -43,7 +43,7 @@ const Hero = () => {
             <Button variant="hero-outline" size="lg" className="text-base px-8 py-6" asChild>
               <a href="#contato">
                 <ClipboardCheck className="mr-2" size={20} />
-                Solicitar diagnóstico
+                Solicitar diagnóstico gratuito
               </a>
             </Button>
           </div>
