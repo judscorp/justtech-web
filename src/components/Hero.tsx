@@ -24,7 +24,7 @@ const Hero = () => {
           </div>
 
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight text-primary-foreground mb-6 animate-fade-up" style={{ animationDelay: "0.1s" }}>
-            Transformamos processos empresariais com{" "}
+            Transformamos processos com{" "}
             <span className="text-gradient">tecnologia</span>
           </h1>
 
