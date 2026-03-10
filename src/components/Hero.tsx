@@ -20,7 +20,7 @@ const Hero = () => {
         <div className="max-w-3xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 rounded-full border border-accent/20 bg-accent/10 px-4 py-1.5 text-sm mb-8 animate-fade-up text-primary-foreground">
             <span className="w-2 h-2 rounded-full bg-accent animate-pulse" />
-            Tecnologia para eficiência empresarial
+            Tecnologia para eficiência do seu negócio
           </div>
 
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight text-primary-foreground mb-6 animate-fade-up" style={{ animationDelay: "0.1s" }}>
