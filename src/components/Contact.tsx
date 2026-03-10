@@ -22,9 +22,9 @@ const Contact = () => {
               </a>
             </Button>
             <Button variant="outline" size="lg" className="text-base px-8 py-6" asChild>
-              <a href="https://www.instagram.com/_justtechia/">
+              <a href="https://www.instagram.com/_justtechia/" target="_blank" rel="noopener noreferrer">
                 <Mail className="mr-2" size={20} />
-                Enviar e-mail
+                Siga nosso instagram
               </a>
             </Button>
             <Button variant="outline" size="lg" className="text-base px-8 py-6" asChild>
