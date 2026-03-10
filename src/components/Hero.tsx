@@ -35,13 +35,13 @@ const Hero = () => {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fade-up" style={{ animationDelay: "0.3s" }}>
             <Button variant="hero" size="lg" className="text-base px-8 py-6" asChild>
-              <a href="#contato">
+              <a href="https://wa.me/5579998241662">
                 <MessageSquare className="mr-2" size={20} />
                 Falar com um especialista
               </a>
             </Button>
             <Button variant="hero-outline" size="lg" className="text-base px-8 py-6" asChild>
-              <a href="#contato">
+              <a href="https://forms.gle/FiTwtVrcjeyU5mNr7">
                 <ClipboardCheck className="mr-2" size={20} />
                 Solicitar diagnóstico gratuito
               </a>

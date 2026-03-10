@@ -16,19 +16,19 @@ const Contact = () => {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button variant="hero" size="lg" className="text-base px-8 py-6" asChild>
-              <a href="https://wa.me/" target="_blank" rel="noopener noreferrer">
+              <a target="_blank" rel="noopener noreferrer" href="https://wa.me/5579998241662">
                 <MessageSquare className="mr-2" size={20} />
                 Falar no WhatsApp
               </a>
             </Button>
             <Button variant="outline" size="lg" className="text-base px-8 py-6" asChild>
-              <a href="mailto:contato@justtech.com">
+              <a href="https://www.instagram.com/_justtechia/">
                 <Mail className="mr-2" size={20} />
                 Enviar e-mail
               </a>
             </Button>
             <Button variant="outline" size="lg" className="text-base px-8 py-6" asChild>
-              <a href="#contato">
+              <a href="https://forms.gle/FiTwtVrcjeyU5mNr7">
                 <ClipboardCheck className="mr-2" size={20} />
                 Solicitar diagnóstico
               </a>
@@ -36,8 +36,8 @@ const Contact = () => {
           </div>
         </div>
       </div>
-    </section>
-  );
+    </section>);
+
 };
 
 export default Contact;
