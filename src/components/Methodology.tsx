@@ -14,7 +14,7 @@ const steps = [
   {
     icon: Wrench,
     title: "Implementação de soluções",
-    description: "Aplicação de automação, organização digital e integração de sistemas.",
+    description: "Aplicação de ferramentas para melhorar a eficiência do seu negócio.",
   },
   {
     icon: TrendingUp,

@@ -4,22 +4,22 @@ const solutions = [
   {
     icon: Cog,
     title: "Automação de processos",
-    description: "Automatização de tarefas repetitivas e integração entre sistemas.",
+    description: "Automatização de tarefas repetitivas, agentes de IA, integração de sistemas.",
   },
   {
     icon: Database,
-    title: "Organização de informações",
-    description: "Sistemas simples para controle de clientes, pedidos e atividades.",
+    title: "Análise de dados",
+    description: "Dashboards, relatórios automáticos, acompanhamento de indicadores.",
   },
   {
     icon: MessageCircle,
-    title: "Comunicação inteligente",
-    description: "Ferramentas para melhorar comunicação entre equipes e atendimento.",
+    title: "Organização de processos",
+    description: "Sistemas de comunicação interna, atendimento, agendamento ou lembretes automáticos.",
   },
   {
     icon: BarChart3,
-    title: "Análise de dados",
-    description: "Dashboards e relatórios para tomada de decisões.",
+    title: "Comunicação visual",
+    description: "Páginas web, estrutura de comunicação, identidade visual, gestão de redes e mais.",
   },
 ];
 
