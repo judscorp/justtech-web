@@ -15,8 +15,8 @@ const About = () => {
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mt-3 mb-6">
             Sobre a Just Tech
           </h2>
-          <p className="text-lg text-muted-foreground leading-relaxed">
-            A Just Tech é uma agência focada em melhoria operacional através da tecnologia. Nosso objetivo é identificar gargalos dentro das empresas e implementar soluções tecnológicas simples que aumentem produtividade, organização e eficiência no dia a dia do seu negócio.
+          <p className="text-lg text-muted-foreground leading-relaxed">A Just Tech é uma agência focada em melhoria operacional através da tecnologia. Nosso objetivo é identificar gargalos dentro das empresas e aplicar soluções tecnológicas simples que aumentem produtividade, organização e eficiência no dia a dia do seu negócio.
+
           </p>
         </div>
 
